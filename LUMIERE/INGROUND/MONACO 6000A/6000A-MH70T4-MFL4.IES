@@ -1,0 +1,31 @@
+IESNA:LM-63-1995
+[TEST]     19058
+[MANUFAC]COOPER LIGHTING - LUMIERE
+[LUMCAT]6000A-MH70T4-MFL4                                          
+[LUMINAIRE]WITH DIFFUSE SPUN REFLECTOR AND TWO CLEAR GLASS LENS                            
+[LAMP]ONE PHILIPS 70 WATT CMH LAMP                                                    
+[LAMPCAT]CDM70/TC/830. LUMEN RATING = 6400 LMS.                                          
+[OTHER]OPERATING AT 70 WATTS - WITH REFLECTOR MF4 SET AT 0 DEGREES TILT                
+TILT=NONE
+1
+      6400
+1
+37
+1
+1
+1
+  0.00
+  0.00
+  0.00
+1
+1
+    0.0000
+90 92.5 95 97.5 100 102.5 105 107.5 110 112.5 115 117.5 120
+122.5 125 127.5 130 132.5 135 137.5 140 142.5 145 147.5 150
+152.5 155 157.5 160 162.5 165 167.5 170 172.5 175 177.5 180
+0
+       0.5        0.6        1.8        2.7        4.3        6.1        7.9        9.5       10.4       10.8
+      10.8        9.9       10.3       12.9       17.6       25.3       35.7       52.7       77.6      117.8
+     188.1      304.1      530.5      802.1      878.3      999.3     1367.7     1645.9     1834.1     2060.0
+    2367.6     2779.3     3225.7     3671.5     4029.6     4291.9     4390.7
+

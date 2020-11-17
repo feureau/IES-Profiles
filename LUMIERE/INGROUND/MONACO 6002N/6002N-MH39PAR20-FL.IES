@@ -1,0 +1,31 @@
+IESNA:LM-63-1995
+[TEST]     19048
+[MANUFAC]COOPER LIGHTING - LUMIERE  
+[LUMCAT]6002N-MH39PAR20-FL                                         
+[LUMINAIRE]WITH PAR LAMP AND TWO CLEAR GLASS LENS                                          
+[LAMP]ONE PHILIPS 39 WATT CMH LAMP                                                    
+[LAMPCAT]CDM35/830/PAR20/FL. LUMEN RATING = 2000 LMS.                                    
+[OTHER]OPERATING AT 39 WATTS - WITH PAR FLOOD LAMP SET AT 0 DEGREES TILT               
+TILT=NONE
+1
+      2000
+1
+37
+1
+1
+1
+  0.00
+  0.00
+  0.00
+1
+1
+    0.0000
+90 92.5 95 97.5 100 102.5 105 107.5 110 112.5 115 117.5 120
+122.5 125 127.5 130 132.5 135 137.5 140 142.5 145 147.5 150
+152.5 155 157.5 160 162.5 165 167.5 170 172.5 175 177.5 180
+0
+       0.5        0.7        1.3        1.6        2.0        2.0        2.0        2.0        2.0        2.0
+       2.0        2.1        2.9        3.8        4.3        4.8        5.5        6.6        9.1       11.6
+      15.3       25.8       43.9       77.3      155.8      283.2      493.2      804.8     1162.7     1550.1
+    2094.2     2823.9     3528.8     4109.3     4485.6     4689.8     4750.5
+

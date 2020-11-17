@@ -1,0 +1,68 @@
+IESNA:LM-63-1995
+[TEST] Photopia 2.0.0.10 PHOTOMETRIC REPORT
+[LUMINAIRE] PROJECT: Minislot Disk Photopia 6
+[OTHER] OPTIONS:
+[OTHER]   Performing lamp shadow check up to 500 tries.
+[OTHER]   Spawning 1 rays for each reaction.
+[OTHER]   Writing 200 rays to a DXF file.
+[OTHER]   Random number generator seed: 8.
+[OTHER]   Tracing 6 reflections.
+[OTHER]   Stop tracing ray at 1.0% of initial magnitude.
+[OTHER]   Note: Reached lamp shadow check limit for ray generation.
+[OTHER]   Lamp rays forced through shadowing facets.(1)
+[OTHER]   Tracing 999978 initial lamp rays.
+[OTHER]   Photometric test distance of 20.00 meters.
+[OTHER]
+[OTHER] LUMENS EXITING SYSTEM:
+[OTHER]   Lumens(%)       Reflection
+[OTHER]        0(  0.0%)      0
+[OTHER]      530(  3.8%)      1
+[OTHER]     7652( 54.7%)      2
+[OTHER]      254(  1.8%)      3
+[OTHER]      637(  4.6%)      4
+[OTHER]       53(  0.4%)      5
+[OTHER]       45(  0.3%)      6
+[OTHER]     9174( 65.5%)  Total
+[OTHER]
+[OTHER] LUMEN INTERACTION WITH SYSTEM:
+[OTHER] Absorbed(%)      Incident(%)      Layer Name
+[OTHER]        0(  0.0%)        0(  0.0%)   LAMP-CDMT1501
+[OTHER]        0(  0.0%)        0(  0.0%)   LAMP-CDMT1502
+[OTHER]        1(  0.0%)       21(  0.2%)   LAMP-CDMT1503
+[OTHER]        1(  0.0%)       28(  0.2%)   LAMP-CDMT1504
+[OTHER]        3(  0.0%)       53(  0.4%)   LAMP-CDMT1505
+[OTHER]        3(  0.0%)     2964( 21.2%)   LAMP-CDMT1506
+[OTHER]       75(  0.5%)       75(  0.5%)   LAMP-CDMT1507
+[OTHER]        1(  0.0%)        4(  0.0%)   LAMP-CDMT1508
+[OTHER]      491(  3.5%)      665(  4.8%)   REFL-ANEL522AL
+[OTHER]      393(  2.8%)      393(  2.8%)   REFL-ANELLO
+[OTHER]     1815( 13.0%)     1815( 13.0%)   REFL-CORPO
+[OTHER]       99(  0.7%)       99(  0.7%)   REFL-FONDO
+[OTHER]      627(  4.5%)    11439( 81.7%)   REFL-NEW MAIN
+[OTHER]     1168(  8.3%)    10622( 75.9%)   REFL-NEW_DISK
+[OTHER]     4685( 33.5%)    28185(201.3%) Total
+[OTHER] Absorbed(%)      Incident(%)      Material Name
+[OTHER]       77(  0.6%)       77(  0.6%)   ZERO0000
+[OTHER]        6(  0.0%)      103(  0.7%)   PHOSGLAS
+[OTHER]        3(  0.0%)     2964( 21.2%)   QUARTZ01
+[OTHER]        1(  0.0%)        4(  0.0%)   G12BASE1
+[OTHER]      491(  3.5%)      665(  4.8%)   PERFECT3
+[OTHER]     2308( 16.5%)     2308( 16.5%)   ZERO0000
+[OTHER]      627(  4.5%)    11439( 81.7%)   ALMIRO04
+[OTHER]     1168(  8.3%)    10622( 75.9%)   PAINT008
+[OTHER]     4685( 33.5%)    28185(201.3%) Total
+[OTHER]
+[OTHER] UNACCOUNTED LUMENS:
+[OTHER]         reached interreflection limit:   140.37 (  1.0%)
+[OTHER]       fell below continuation minimum:     0.12 (  0.0%)
+[OTHER] could not find in/out refractor facet:     0.00 (  0.0%)
+[OTHER]  reached try limit for scatter bounce:     0.00 (  0.0%)
+[OTHER]  lost elsewhere(i.e. outside distrib):     0.00 (  0.0%)
+TILT=NONE
+1 14000 1 37 1 1 2 28.212 28.9705 20.9882
+1 1 170
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 105 110 115 120 125 130 135 140 145 150 155 160 165 170 175 180
+0
+1883.81 1896.26 1922.23 1943.93 1981.95 2019.47 2039.67 2108.9 2340.39 2596.23 2576.51 2238.82 1662.69 1138.44 804.985 593.248
+427.343 268.364 153.064 53.892 7.838 9.522 12.823 34.424 22.044 36.046 7.91 0 0 0 0 0 0 0 0 0 0
+

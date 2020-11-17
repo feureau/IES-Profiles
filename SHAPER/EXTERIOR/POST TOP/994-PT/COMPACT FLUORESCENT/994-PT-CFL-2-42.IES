@@ -1,0 +1,30 @@
+IESNA:LM-63-1995
+[TEST]     19081
+[MANUFAC]COOPER LIGHTING - SHAPER                                            
+[LUMCAT]994-PT-CF2/42                                                                   
+[LUMINAIRE]POST TOP LUMINAIRE WITH SPECULAR FACETED REFLECTOR AND CLEAR FLAT GLASS LENS                       
+[LAMP]TWO SYLVANIA 42 WATT CPFL LAMPS                                                 
+[LAMPCAT]CF32DT/E/IN/841. LUMEN RATING = 6400 LMS.                                       
+[OTHER]ONE UNIVERSAL C242UNVSE BALLAST OPERATING AT 120 VAC AND 89 WATTS               
+TILT=NONE
+1
+      6400
+1
+37
+1
+1
+1
+ -1.33
+  0.00
+  0.00
+1
+1
+   89.0000
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5
+40 42.5 45 47.5 50 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75
+77.5 80 82.5 85 87.5 90
+0
+     575.0      580.2      592.6      607.7      624.7      644.1      669.2      697.3      726.0      750.7
+     773.7      794.6      811.5      826.3      839.5      853.4      872.4      900.0      937.6      986.1
+    1036.3     1064.6     1071.7     1057.5     1022.2      965.4      885.3      790.6      680.3      555.6
+     428.6      291.7      177.3       85.7       30.6        6.0        0.5

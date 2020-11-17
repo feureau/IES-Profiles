@@ -1,0 +1,26 @@
+IESNA:LM-63-2002
+[TEST]BALLABS TEST NO.  14775.0
+[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+[ISSUEDATE] 29-JUN-2009
+[MANUFAC]COOPER LIGHTING - NEO-RAY
+[LUMINAIRE] 3/32W T8 LAMP 2x4'DIRECT RECESSED LUMINAIRE w/WHITE REFL 
+[MORE] PERF DIFFUSER/OVERLAY w/OPEN CENTER 3.6"WHITE BLADE BAFFLE
+[MORE] SYLVANIA BALLAST #QTP1x32T8/UNVPSN-TC  WATTS=29          
+[LUMCAT] 234ISL-3T8 - OUTBOARD LAMPS OFF             
+[LAMPCAT] F32T8/835/RS       
+TILT=NONE
+   1   2950.  1.000000   19    5    1    1 1.938 3.917  .000
+    1.0000    1.0000   29.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0   22.5   45.0   67.5   90.0
+   910.   905.   859.   809.   736.   585.   476.   403.   292.   195.
+   162.   134.   104.    79.    59.    38.    24.    10.     0.
+   910.   907.   864.   818.   749.   599.   493.   423.   314.   209.
+   167.   134.   104.    79.    59.    38.    24.    12.     0.
+   910.   914.   880.   845.   786.   642.   530.   448.   329.   229.
+   179.   141.   107.    79.    59.    38.    24.     8.     0.
+   910.   921.   904.   887.   837.   686.   545.   444.   315.   227.
+   199.   167.   128.    88.    61.    38.    22.     8.     0.
+   910.   924.   919.   917.   870.   714.   557.   448.   315.   248.
+   227.   195.   144.    89.    63.    38.    21.     7.     0.

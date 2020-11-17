@@ -1,0 +1,21 @@
+IESNA:LM-63-1995
+[DATE]08-31-1999
+[TEST]PT08993104
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]CH6-218Q-650CL-WH   
+[LUMINAIRE]6" RECESSED HORIZONTAL COMPACT FLUORESCENT DOWNLIGHT 
+[MORE] CLEAR LENS 
+[LAMP](2) PL-C 18W/35/4P           
+[OTHER] QUAD TUBE COMPACT FLUORESCENT 
+TILT=NONE
+2   1250   1  37  1 1  1  -.495   .000   .000
+1 1 28.7 
+ 0  2.5  5  7.5  10  12.5  15  17.5  20  22.5  25  27.5 
+ 30  32.5  35  37.5  40  42.5  45  47.5  50  52.5  55  57.5 
+ 60  62.5  65  67.5  70  72.5  75  77.5  80  82.5  85  87.5 
+ 90 
+0
+   435     438     440     441     442     441     440     438     430     416  
+   399     381     361     339     316     292     262     236     209     178  
+   143     107      73      54      50      47      45      43      0      0  
+    0      0      0      0      0      0      0  

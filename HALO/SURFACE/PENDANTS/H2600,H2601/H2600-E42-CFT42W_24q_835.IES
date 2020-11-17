@@ -1,0 +1,20 @@
+IESNA:LM-63-1995
+[TEST]11875.0 
+[MANUFAC]COOPER LIGHTING - HALO    
+[LUMINAIRE]1/42W SYLVANIA TRIPLE CF 12"DIA CHORUS PENDANT LUMINAIRE 
+[LUMINAIRE]SILVER FITTER w/PRISMATIC REFRACTOR w/OPEN BOTTOM        
+[LUMINAIRE]ADVANCE BALLAST #ICF-2S26-HI-LD          WATTS=42        
+[LUMCAT]H2600-E42                                   
+[LAMPCAT]CFT42W/24q/835     
+TILT=NONE
+   1   3200.  1.000000   37    1    1    1  .000 1.042  .604
+    1.0000    1.0000   42.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0   95.0
+  100.0  105.0  110.0  115.0  120.0  125.0  130.0  135.0  140.0  145.0
+  150.0  155.0  160.0  165.0  170.0  175.0  180.0
+     .0
+   167.   167.   168.   185.   209.   232.   236.   233.   245.   252.
+   254.   253.   251.   250.   253.   259.   263.   263.   259.   258.
+   253.   245.   233.   214.   190.   160.   127.    95.    61.    25.
+     8.     2.     2.     2.     2.     3.     3.

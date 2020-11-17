@@ -1,0 +1,30 @@
+IESNA:LM-63-1995
+[TEST]     19082
+[MANUFAC]COOPER LIGHTING - SHAPER                                            
+[LUMCAT]994-PT-MH1/70                                                                   
+[LUMINAIRE]POST TOP LUMINAIRE WITH SPECULAR FACETED REFLECTOR AND CLEAR FLAT GLASS LENS                       
+[LAMP]ONE SYLVANIA 70 WATT CMH LAMP                                                   
+[LAMPCAT]MC70T6/U/G12/830. LUMEN RATING = 6700 LMS.                                      
+[OTHER]OPERATING AT 70 WATTS                                                           
+TILT=NONE
+1
+      6700
+1
+37
+1
+1
+1
+ -1.33
+  0.00
+  0.00
+1
+1
+    0.0000
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5
+40 42.5 45 47.5 50 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75
+77.5 80 82.5 85 87.5 90
+0
+   10755.6    10523.0    10154.9     8996.1     7497.9     5849.6     4195.0     2570.7     1245.6      799.3
+     729.2      727.1      705.7      662.1      648.4      632.1      654.6      690.6      667.6      631.8
+     626.4      672.2      741.4      735.9      692.1      576.4      510.7      445.3      232.2       68.1
+      31.1       21.6       12.4        5.7        3.8        0.5        0.5

@@ -1,0 +1,19 @@
+IESNA:LM-63-1995
+[TEST] PT04990510
+[MANUFAC] JUNO LIGHTING INC
+[MORE]  1300 S. Wolf Rd. P.O. Box 5065
+[MORE]  DES PLAINES IL 60017-5065
+[LUMCAT] CV6-132T-601B-WH
+[LUMINAIRE] 6" RECESSED VERTICAL COMPACT FLUOR. DOWNLIGHT W/BLK BAFFLE
+[LAMP] PL-T32W/30/4P
+TILT=NONE                                                                        
+1 2400 1 19 1 1 1 -0.46 0 0
+1 1 33
+      0.00      5.00      10.00     15.00     20.00     25.00     30.00     35.00     40.00         45.00     50.00     55.00     60.00     65.00     70.00     75.00     80.00     85.00     90.00
+      0.00
+       821       833       830       813       793       722       618       497
+       363       237       102       8       1      0         0         0         0         0         0         0
+         0         0         0         0         
+
+
+

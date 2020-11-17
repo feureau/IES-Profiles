@@ -1,0 +1,26 @@
+IESNA:LM-63-2002
+[TEST]BALLABS TEST NO.  16170.0
+[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+[ISSUEDATE] 09-JUN-2011
+[MANUFAC] COOPER LIGHTING - NEO-RAY  
+[LUMINAIRE] 2/14W T5 2x2'SHALLOW RECESSED LUMINAIRE w/WHITE OPTIC REFL
+[MORE] 95HT CENTER LENS & .08"HIGH TRANS ACRYLIC SIDE DIFFUSERS 
+[MORE] UNIVERSAL LTG TECH BALLAST #B228PUNV-C  WATTS=32.7 REFL=94%
+[LUMCAT] 282R-2T5-95HT       
+[LAMPCAT] FP14T5/835 PHILIPS 
+TILT=NONE
+   2   1275.  1.000000   19    5    1    1 1.802 1.859  .000
+    1.0000    1.0000   33.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0   22.5   45.0   67.5   90.0
+   883.   884.   872.   852.   819.   773.   724.   664.   597.   526.
+   453.   387.   319.   247.   181.   121.    67.    23.     0.
+   883.   880.   868.   848.   818.   776.   729.   674.   609.   540.
+   470.   396.   323.   250.   176.   113.    61.    18.     0.
+   883.   880.   868.   850.   822.   786.   746.   692.   625.   553.
+   481.   404.   327.   250.   176.   108.    57.    16.     0.
+   883.   880.   868.   851.   826.   793.   750.   696.   636.   564.
+   489.   417.   335.   252.   177.   107.    54.    14.     0.
+   883.   880.   869.   853.   831.   796.   755.   703.   639.   567.
+   495.   417.   340.   257.   176.   108.    54.    13.     0.

@@ -1,0 +1,31 @@
+IESNA:LM-63-1995
+[TEST]     18998
+[MANUFAC]COOPER LIGHTING - LUMIERE 
+[LUMCAT]6002N-MH100PAR38-FL                                    
+[LUMINAIRE]WITH PAR 38 FLOOD LAMP AND TWO CLEAR GLASS LENS                                 
+[LAMP]ONE SYLVANIA 100 W MH LAMP                                                      
+[LAMPCAT]MP100PAR38/U/FL35. LUMEN RATING = 5800 LMS.                                     
+[OTHER]OPERATING AT 100 WATTS - SET AT 0 DEGREES TILT                                  
+TILT=NONE
+1
+      5800
+1
+37
+1
+1
+1
+  0.00
+  0.00
+  0.00
+1
+1
+    0.0000
+90 92.5 95 97.5 100 102.5 105 107.5 110 112.5 115 117.5 120
+122.5 125 127.5 130 132.5 135 137.5 140 142.5 145 147.5 150
+152.5 155 157.5 160 162.5 165 167.5 170 172.5 175 177.5 180
+0
+       0.5        0.5        0.5        0.5        0.5        0.5        1.0        1.9        5.1        7.1
+       8.6        9.7       11.1       12.4       16.7       22.2       32.8       45.8       62.3       91.2
+     143.8      228.7      374.4      605.1      951.9     1422.4     2132.7     3106.4     4353.4     5768.6
+    6962.7     7806.0     8287.0     8568.2     8732.8     8871.4     8933.3
+

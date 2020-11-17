@@ -1,0 +1,21 @@
+IESNA:LM-63-1995
+[DATE]07-25-2000
+[TEST]PT07002503
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]TC2-230CW-WH        
+[LUMINAIRE]6" DIA RECESSED DOWNLIGHT   
+[MORE]BRITE DIP UPPER REFLECTOR WITH LOWER WHITE BAFFLE
+[LAMP]100A19                
+[OTHER]
+TILT=NONE
+1   1710   1  37  1 1  1  -.458   .000   .000
+1 1 100.2
+ 0  2.5  5  7.5  10  12.5  15  17.5  20  22.5  25  27.5 
+ 30  32.5  35  37.5  40  42.5  45  47.5  50  52.5  55  57.5 
+ 60  62.5  65  67.5  70  72.5  75  77.5  80  82.5  85  87.5 
+ 90 
+0
+   330     330     333     339     347     355     364     375     389     406  
+   426     443     457     464     464     451     424     380     325     269  
+   215     171     136     107      80      57      41      30      24      20  
+    17      15      11       8       4       0       0  

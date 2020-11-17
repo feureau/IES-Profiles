@@ -1,0 +1,88 @@
+IESNA:LM-63-1995
+[TEST] Photopia 2.0.0.21 PHOTOMETRIC REPORT
+[MANUFAC]COOPER LIGHTING - SHAPER
+[LUMCAT]1300-14-MH-1-100-ROS-N
+[LUMINAIRE]SHAPER 14 INCH DECORATIVE HI-BAY HID 10-23-07_08_topdiff_top01_0.500
+[OTHER] OPTIONS: REFLECTOR SHROUD NARROW BEAM
+[OTHER]   Spawning 1 rays for each reaction.
+[OTHER]   Random number generator seed: 8.
+[OTHER]   Tracing 25 reflections.
+[OTHER]   Stop tracing ray at 1.0% of initial magnitude.
+[OTHER]   Tracing 1000015 initial lamp rays.
+[OTHER]   Photometric test distance of 20.00 feet.
+[OTHER]
+[OTHER] LUMENS EXITING SYSTEM:
+[OTHER]   Lumens(%)       Reflection
+[OTHER]     1016( 11.5%)      0
+[OTHER]     6223( 70.7%)      1
+[OTHER]       68(  0.8%)      2
+[OTHER]       27(  0.3%)      3
+[OTHER]       14(  0.2%)      4
+[OTHER]        6(  0.1%)      5
+[OTHER]        2(  0.0%)      6
+[OTHER]        1(  0.0%)      7
+[OTHER]        0(  0.0%)      8
+[OTHER]        0(  0.0%)      9
+[OTHER]        0(  0.0%)     10
+[OTHER]        0(  0.0%)     11
+[OTHER]        0(  0.0%)     12
+[OTHER]        0(  0.0%)     13
+[OTHER]        0(  0.0%)     14
+[OTHER]        0(  0.0%)     15
+[OTHER]        0(  0.0%)     16
+[OTHER]        0(  0.0%)     17
+[OTHER]        0(  0.0%)     18
+[OTHER]        0(  0.0%)     19
+[OTHER]        0(  0.0%)     20
+[OTHER]        0(  0.0%)     21
+[OTHER]        0(  0.0%)     22
+[OTHER]        0(  0.0%)     23
+[OTHER]        0(  0.0%)     24
+[OTHER]        0(  0.0%)     25
+[OTHER]     7362( 83.7%)  Total
+[OTHER]
+[OTHER] LUMEN INTERACTION WITH SYSTEM:
+[OTHER] Absorbed(%)      Incident(%)      Layer Name
+[OTHER]        0(  0.0%)        0(  0.0%)   LAMP-CDMP1001
+[OTHER]        0(  0.0%)        0(  0.0%)   LAMP-CDMP1002
+[OTHER]        0(  0.0%)        0(  0.0%)   LAMP-CDMP1003
+[OTHER]        0(  0.0%)        0(  0.0%)   LAMP-CDMP1004
+[OTHER]        0(  0.0%)        0(  0.0%)   LAMP-CDMP1005
+[OTHER]        0(  0.0%)       80(  0.9%)   LAMP-CDMP1006
+[OTHER]        5(  0.1%)        5(  0.1%)   LAMP-CDMP1007
+[OTHER]      856(  9.7%)     6233( 70.8%)   REFL-08
+[OTHER]      141(  1.6%)      709(  8.1%)   REFL-08_diff
+[OTHER]      119(  1.4%)      542(  6.2%)   REFL-08_top01
+[OTHER]       56(  0.6%)      112(  1.3%)   REFL-zBRing
+[OTHER]        1(  0.0%)        4(  0.1%)   REFL-zBoss
+[OTHER]       86(  1.0%)      173(  2.0%)   REFL-zHouse
+[OTHER]        0(  0.0%)        0(  0.0%)   REFL-zLBracket
+[OTHER]       10(  0.1%)       25(  0.3%)   REFL-zSocket
+[OTHER]      138(  1.6%)      460(  5.2%)   REFL-zUPlate
+[OTHER]     1417( 16.1%)     8349( 94.9%) Total
+[OTHER] Absorbed(%)      Incident(%)      Material Name
+[OTHER]        0(  0.0%)       80(  0.9%)   QUARTZ01
+[OTHER]        5(  0.1%)        5(  0.1%)   ZERO0000
+[OTHER]        0(  0.0%)        1(  0.0%)   PHOSGLAS
+[OTHER]      976( 11.1%)     6776( 77.0%)   CAMSPEC1
+[OTHER]      141(  1.6%)      709(  8.1%)   CPAMSS40
+[OTHER]      143(  1.6%)      285(  3.2%)   PERFECT5
+[OTHER]      140(  1.6%)      465(  5.3%)   AL1300MF
+[OTHER]       10(  0.1%)       25(  0.3%)   PAINT002
+[OTHER]     1417( 16.1%)     8349( 94.9%) Total
+[OTHER]
+[OTHER] UNACCOUNTED LUMENS:
+[OTHER]         reached interreflection limit:     0.00 (  0.0%)
+[OTHER]       fell below continuation minimum:     0.01 (  0.0%)
+[OTHER] could not find in/out refractor facet:     0.00 (  0.0%)
+[OTHER]  reached try limit for scatter bounce:     0.00 (  0.0%)
+[OTHER]  lost elsewhere(i.e. outside distrib):    20.03 (  0.2%)
+TILT=NONE
+1 8800 1 37 1 1 1 1.16349 1.16349 1.24952
+1 1 115
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5 40 42.5 45 47.5 50 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75 77.5 80
+82.5 85 87.5 90
+0
+5017.17 4249.37 3419.34 3453.41 4065.24 4679.73 4856.62 4872.54 4703.95 4332.44 3758.64 3382.8 3286.4 3226.86 3124.72 3023.27
+2885.7 2671.07 2468.76 1949.6 942.68 258.97 37.91 19.59 17 16.25 14.61 14.36 13.41 13.48 14.07 12.86 11.5 8.35 5.35 1.73 1.02
+

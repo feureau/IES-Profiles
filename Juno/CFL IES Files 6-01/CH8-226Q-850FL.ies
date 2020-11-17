@@ -1,0 +1,21 @@
+IESNA:LM-63-1995
+[DATE]08-26-1999
+[TEST]PT08992601
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]CH8-226Q-850FL-WH   
+[LUMINAIRE]8" RECESSED HORIZONTAL COMPACT FLUORESCENT DOWNLIGHT
+[MORE] FRESNEL LENS
+[LAMP] (2) PL-C 26W/35/4P           
+[OTHER] QUAD TUBE COMPACT FLUORESCENT LAMPS 
+TILT=NONE
+2   1800   1  37  1 1  1  -.604   .000   .000
+1 1 42.4 
+ 0  2.5  5  7.5  10  12.5  15  17.5  20  22.5  25  27.5 
+ 30  32.5  35  37.5  40  42.5  45  47.5  50  52.5  55  57.5 
+ 60  62.5  65  67.5  70  72.5  75  77.5  80  82.5  85  87.5 
+ 90 
+0
+   960     963     967     965     953     928     894     852     804     753  
+   696     633     564     497     434     373     313     262     220     187  
+   160     140     123     109      98      87      78      68      0      0  
+    0      0      0      0      0      0      0  

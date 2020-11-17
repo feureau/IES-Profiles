@@ -1,0 +1,22 @@
+IESNA:LM-63-1995
+[DATE]02-20-2001
+[TEST]PT02012001
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]TC43-437C-WH        
+[LUMINAIRE]4" DOWNLIGHT WITH CLEAR REFLECTOR
+[MORE]UNIFORMITY COVER GLASS
+[MORE]0 DEG TILT    
+[LAMP]50MR16/IR/FL40           
+[OTHER]
+TILT=NONE
+1   1300   1  37  1 1  1  -.273   .000   .000
+1 1 50.0 
+ 0  2.5  5  7.5  10  12.5  15  17.5  20  22.5  25  27.5 
+ 30  32.5  35  37.5  40  42.5  45  47.5  50  52.5  55  57.5 
+ 60  62.5  65  67.5  70  72.5  75  77.5  80  82.5  85  87.5 
+ 90 
+0
+  3322    3058    2711    2500    2256    1961    1653    1322     994     695  
+   489     348     233     147      95      61      38      23      12       4  
+     1       0       0       0       0       0       0       0       0       0  
+     0       0       0       0       0       0       0  

@@ -1,0 +1,29 @@
+IESNA:LM-63-1995
+[TEST]     18390
+[MANUFAC]COOPER LIGHTING - SHAPER                                            
+[LUMCAT]906-PT-CF2/26                                                                   
+[LUMINAIRE]WITH WHITE TOP REFLECTOR AND FLAT FROSTED PLASTIC LENS                          
+[LAMP]TWO 26 WATT CPFL LAMPS. LUMEN RATING = 3600 LMS.                                
+[OTHER]SIMULATED REPORT CREATED FROM TEST WITH 32 WATT LAMPS                           
+TILT=NONE
+1
+      3600
+1
+37
+1
+1
+1
+ -1.88
+  0.00
+  0.00
+1
+1
+    0.0000
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5
+40 42.5 45 47.5 50 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75
+77.5 80 82.5 85 87.5 90
+0
+     124.8      131.9      150.1      173.8      194.7      206.7      213.9      218.1      220.3      220.3
+     218.5      214.8      209.3      201.7      193.1      183.6      173.8      163.6      153.6      143.4
+     133.1      122.9      112.0      101.7       91.1       80.9       70.3       60.1       49.6       38.7
+      29.0       19.8       12.3        6.3        2.5        0.8        0.5

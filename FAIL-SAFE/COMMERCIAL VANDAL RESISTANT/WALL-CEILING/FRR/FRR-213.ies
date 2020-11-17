@@ -1,0 +1,15 @@
+IESNA:LM-63-1995
+[TEST]BALLABS TEST NO.  8045.0  
+[MANUFAC]COOPER LIGHTING - FAIL-SAFE    
+[LUMINAIRE]2/13W PL LAMP    9"DIA RECESSED LUMINAIRE                
+[LUMINAIRE]SEMI-SPECULAR REFL W/ PRISM LENS WATTS=37                                                                          
+[LUMCAT]FRR213                                      
+[LAMPCAT]F13TT/27K          
+TILT=NONE
+   2    900.  1.000000   19    1    1    1  .000  .708  .000
+    1.0000    1.0000   37.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0
+   441.   440.   444.   439.   426.   409.   367.   327.   269.   197.
+   131.    85.    52.    33.    17.     7.     0.     0.     0.

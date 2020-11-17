@@ -1,0 +1,19 @@
+IESNA:LM-63-1995
+[TEST] LTL TEST NUMBER 06810
+[DATE] 07-02-2002
+[MANUFAC]COOPER LIGHTING - LUMIERE                                 
+[LUMCAT]2002-MH39T4-SP                                                 
+[LUMINAIRE] FABRICATED ALUMINUM HOUSING, SPUN SPECULAR ALUMINUM              
+[MORE]      REFLECTOR, CLEAR GLASS ENCLOSURE.                                
+[LAMP] ONE CLEAR PHILIPS CDM35/TC/830 39 WATT T4 SINGLE ENDED METAL     
+[MORE] HALIDE RATED AT 3,300 LUMENS.                                    
+[BALLAST] ONE AROMAT M3912CK-3EU                                           
+[OTHER] MOUNTING: SURFACE                                             
+TILT=NONE        
+  1     3300.   1.0  37   1   1   1     -0.12      0.00      0.00
+  1.0  1.0   45.
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5 40 42.5 45 47.5 50
+ 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75 77.5 80 82.5 85 87.5 90
+0
+2466 2303 2028 1802 1612 1440 1217 931 665 442 261 140 63 23 14 8 7 8 5 2 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0

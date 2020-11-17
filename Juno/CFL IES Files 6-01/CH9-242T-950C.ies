@@ -1,0 +1,20 @@
+IESNA:LM-63-1995
+[DATE]05-08-1998
+[TEST]PT05980802
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]CH9-242T-950C-WH             
+[LUMINAIRE] 9" RECESSED HORIZONTAL COMPACT FLUORESCENT DOWNLIGHT
+[MORE]SPECULAR CLEAR ALZAK REFLECTOR FINISH
+[LAMP](2) CF42DT/E/IN/830          
+TILT=NONE
+2   3200   1  37  1 1  1  -.708   0.0   0.0
+1 1 98.4 
+ 0  2.5  5  7.5  10  12.5  15  17.5  20  22.5  25  27.5 
+ 30  32.5  35  37.5  40  42.5  45  47.5  50  52.5  55  57.5 
+ 60  62.5  65  67.5  70  72.5  75  77.5  80  82.5  85  87.5 
+ 90 
+0
+  2398    2453    2565    2660    2726    2776    2815    2783    2704    2620  
+  2514    2399    2304    2206    2142    1994    1769    1419     802     257  
+    61      25      19       0       0       0       0       0       0       0  
+     0       0       0       0       0       0       0  

@@ -1,0 +1,26 @@
+IESNA:LM-63-2002
+[TEST]BALLABS TEST NO.  16180.0 
+[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+[ISSUEDATE] 30-JUN-2011
+[MANUFAC] COOPER LIGHTING - NEO-RAY  
+[LUMINAIRE] 1/24W T5HO 2x2'RECESSED LUMINAIRE w/WHITE OPTIC REFL     
+[MORE] HIGH TRANS FROSTED CENTER LENS & .08"HIGH TRANS ACRYLIC  
+[MORE] SIDE DIFFUSERS  ULT#B224PUNV-C  WATTS=28.1 REFL=94%      
+[LUMCAT] 282R-1T5HO-95HT                             
+[LAMPCAT] F24T5/841/HO/ALTO  
+TILT=NONE
+   1   2000.  1.000000   19    5    1    1 1.807 1.865  .000
+    1.0000    1.0000   28.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0   22.5   45.0   67.5   90.0
+   722.   721.   713.   694.   667.   632.   592.   547.   493.   435.
+   370.   309.   248.   191.   137.    90.    46.    16.     0.
+   722.   720.   711.   695.   668.   634.   597.   555.   503.   445.
+   382.   318.   252.   195.   140.    92.    49.    16.     0.
+   722.   721.   713.   696.   672.   641.   602.   559.   505.   449.
+   387.   323.   254.   192.   132.    82.    44.    15.     0.
+   722.   720.   712.   697.   676.   646.   609.   567.   511.   451.
+   385.   320.   250.   189.   134.    83.    39.    12.     0.
+   722.   720.   713.   698.   675.   644.   607.   563.   509.   456.
+   393.   327.   254.   187.   129.    82.    41.    12.     0.

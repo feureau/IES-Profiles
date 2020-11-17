@@ -1,0 +1,32 @@
+IESNA:LM-63-2002
+[TEST]29643     
+[TESTLAB]LIGHTING SCIENCES, INC.                            
+[ISSUEDATE]10/ 7/2011
+[MANUFAC]COOPER LIGHTING - SHAPER                                         
+[LUMCAT]340-4-LED835/14W-CYC                                                            
+[LUMINAIRE]SHAPER 4" LED RECESSED GLASS DOWNLIGHT WITH CLEAR GLASS 
+[MORE]CYLINDER AND FROSTED FLAT GLASS LENS                
+[LAMP]LED ARRAY. LUMINAIRE OUTPUT = 566 LMS.                                          
+[OTHER]ONE COOPER RHPS311BL-CLO DRIVER OPERATING AT 120 VAC AND 14.1 WATTS             
+TILT=NONE
+1
+        -1
+1
+37
+1
+1
+1
+ -0.34
+  0.00
+  0.12
+1
+1
+   14.1000
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5
+40 42.5 45 47.5 50 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75
+77.5 80 82.5 85 87.5 90
+0
+     680.1      672.9      655.4      627.2      589.0      546.4      497.1      444.5      405.4      383.9
+     353.0      303.8      250.4      205.1      169.8      144.3      124.7      103.9       80.9       62.5
+      48.5       37.2       28.6       21.3       16.1       10.8        9.2        7.6        5.8        4.1
+       2.7        1.6        0.8        0.2        0.0        0.0        0.0

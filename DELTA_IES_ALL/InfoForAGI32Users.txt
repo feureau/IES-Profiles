@@ -1,0 +1,7 @@
+When loading the IES files into AGI32 you might encounter an error message such as :
+
+"FATAL ERROR: Last horizontal angle is not valid." 
+
+These errors can be fixed by the AGI32 PHOTOMETRIC TOOLBOX which can be downloaded from www.agi32.com
+
+

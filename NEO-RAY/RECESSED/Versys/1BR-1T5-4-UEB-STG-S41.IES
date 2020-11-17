@@ -1,0 +1,26 @@
+IESNA:LM-63-2002
+[TEST]BALLABS ESTIMATED TEST NO.  14493.0
+[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+[ISSUEDATE] 06-OCT-2008
+[MANUFAC]COOPER LIGHTING - NEO-RAY
+[LUMINAIRE] 1/21W T5 LAMP 4'LINEAR FLUOR RECESSED LUMINAIRE          
+[MORE] CTR DIFFUSER w/SEMI-SPEC SIDES & .25"D 1"0C WHITE BLADES 
+[MORE] MICROPRISM OVERLAY (PRISM DOWN)                          
+[LUMCAT] 1BR-1T5-4-UEB-STG-S41  ***ESTIMATED FROM #14306.0***
+[LAMPCAT] FP21T5/835         
+TILT=NONE
+   1   2125.  1.000000   19    5    1    1  .396 3.438  .000
+    1.0000    1.0000   25.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0   22.5   45.0   67.5   90.0
+   816.   816.   816.   787.   737.   705.   640.   592.   520.   456.
+   396.   330.   270.   217.   171.   126.    75.    26.     0.
+   816.   818.   818.   791.   741.   708.   643.   594.   511.   442.
+   369.   297.   231.   169.   112.    65.    32.    14.     0.
+   816.   821.   823.   790.   750.   712.   635.   565.   463.   386.
+   306.   229.   161.   106.    70.    47.    26.    12.     0.
+   816.   825.   829.   801.   758.   712.   617.   532.   422.   335.
+   243.   170.   119.    86.    57.    36.    22.    12.     0.
+   816.   824.   832.   805.   764.   715.   613.   524.   405.   309.
+   214.   149.   106.    73.    47.    30.    20.    12.     0.

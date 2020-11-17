@@ -1,0 +1,15 @@
+IESNA:LM-63-1995
+[TEST]11878.0 
+[MANUFAC]COOPER LIGHTING - HALO    
+[LUMINAIRE]1/70W CLEAR E17 PULSE MH 12"DIA CHORUS PENDANT LUMINAIRE 
+[LUMINAIRE]SILVER FITTER w/SILVER REFLECTOR w/OPEN BOTTOM                                                                   
+[LUMCAT]H2601-E70                                   
+[LAMPCAT]M98 MXR70/C/U/MED/0
+TILT=NONE
+   1   5500.  1.000000   19    1    1    1  .000 1.000  .000
+    1.0000    1.0000   70.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0
+   989.  1010.  1036.  1093.  1129.  1108.  1065.  1049.  1047.  1026.
+   972.   664.   344.   245.   161.    94.    41.    11.     0.

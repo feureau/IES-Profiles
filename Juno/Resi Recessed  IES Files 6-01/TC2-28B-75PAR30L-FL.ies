@@ -1,0 +1,21 @@
+IESNA:LM-63-1995
+[DATE]07-11-2000
+[TEST]PT07001101
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]TC2-28B-WH          
+[LUMINAIRE]6" DIA RECESSED DOWNLIGHT   
+[MORE]BRITE DIP REFLECTOR WITH BLACK BAFFLE   
+[LAMP]75PAR30L/HAL/FL40        
+[OTHER]
+TILT=NONE
+1   940    1  37  1 1  1  -.479   .000   .000
+1 1 75.2 
+ 0  2.5  5  7.5  10  12.5  15  17.5  20  22.5  25  27.5 
+ 30  32.5  35  37.5  40  42.5  45  47.5  50  52.5  55  57.5 
+ 60  62.5  65  67.5  70  72.5  75  77.5  80  82.5  85  87.5 
+ 90 
+0
+  2140    2088    1985    1890    1772    1602    1363    1069     778     540  
+   378     273     206     160     128     106      85      67      50      35  
+    22      14      11       9       7       6       4       3       1       0  
+     0       0       0       0       0       0       0  

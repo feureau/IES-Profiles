@@ -1,0 +1,21 @@
+IESNA:LM-63-1995
+[DATE]05-03-2000
+[TEST]PT05000302
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]IC22-29W-WH         
+[LUMINAIRE]6" DIA RECESSED DOWNLIGHT  
+[MORE]BRITE DIP UPPER REFLECTOR WITH LOWER WHITE REFLECTOR 
+[LAMP]60A19                 
+[OTHER]
+TILT=NONE
+1   865    1  37  1 1  1  -.479   .000   .000
+1 1 60.2 
+ 0  2.5  5  7.5  10  12.5  15  17.5  20  22.5  25  27.5 
+ 30  32.5  35  37.5  40  42.5  45  47.5  50  52.5  55  57.5 
+ 60  62.5  65  67.5  70  72.5  75  77.5  80  82.5  85  87.5 
+ 90 
+0
+   215     214     213     212     210     208     206     203     201     198  
+   197     197     197     197     196     195     193     190     183     169  
+   142     119      98      79      63      50      39      29      21      16  
+    13      10       7       5       3       0       0  

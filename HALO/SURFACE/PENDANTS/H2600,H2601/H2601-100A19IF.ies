@@ -1,0 +1,16 @@
+IESNA:LM-63-1995
+[TEST]11870.0 
+[MANUFAC]COOPER LIGHTING - HALO    
+[LUMINAIRE]1/100W A19 INCANDESCENT 12"DIA CHORUS PENDANT LUMINAIRE  
+[LUMINAIRE]SILVER FITTER w/SILVER REFLECTOR w/OPEN BOTTOM           
+[LUMINAIRE]WATTS=97                                                 
+[LUMCAT]H2601                                       
+[LAMPCAT]100A19IF           
+TILT=NONE
+   1   1750.  1.000000   19    1    1    1  .000 1.000  .000
+    1.0000    1.0000   97.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0
+   453.   457.   457.   454.   448.   437.   397.   369.   350.   319.
+   248.   143.    87.    59.    39.    20.    10.     2.     0.

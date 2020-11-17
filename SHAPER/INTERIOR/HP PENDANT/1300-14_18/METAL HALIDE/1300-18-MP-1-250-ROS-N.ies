@@ -1,0 +1,64 @@
+IESNA:LM-63-1995
+[TEST] Photopia 2.0.0.21 PHOTOMETRIC REPORT
+[MANUFAC]COOPER LIGHTING - SHAPER
+[LUMCAT]1300-18-MH-1-250-ROS-N
+[LUMINAIRE]SHAPER 18 INCH DECORATIVE HI-BAY HID_31RD_06_0.750
+[OTHER] OPTIONS: REFLECTOR SHROUD NARROW BEAM
+[OTHER]   Spawning 1 rays for each reaction.
+[OTHER]   Random number generator seed: 8.
+[OTHER]   Tracing 5 reflections.
+[OTHER]   Stop tracing ray at 1.0% of initial magnitude.
+[OTHER]   Tracing 999936 initial lamp rays.
+[OTHER]   Photometric test distance of 20.00 feet.
+[OTHER]
+[OTHER] LUMENS EXITING SYSTEM:
+[OTHER]   Lumens(%)       Reflection
+[OTHER]     2538( 12.4%)      0
+[OTHER]    14088( 68.7%)      1
+[OTHER]      128(  0.6%)      2
+[OTHER]       96(  0.5%)      3
+[OTHER]       57(  0.3%)      4
+[OTHER]       28(  0.1%)      5
+[OTHER]    16938( 82.6%)  Total
+[OTHER]
+[OTHER] LUMEN INTERACTION WITH SYSTEM:
+[OTHER] Absorbed(%)      Incident(%)      Layer Name
+[OTHER]        0(  0.0%)        0(  0.0%)   LAMP-MVR2501
+[OTHER]        0(  0.0%)        2(  0.0%)   LAMP-MVR2502
+[OTHER]        0(  0.0%)      277(  1.4%)   LAMP-MVR2503
+[OTHER]        3(  0.0%)        3(  0.0%)   LAMP-MVR2504
+[OTHER]     2287( 11.2%)    16188( 79.0%)   REFL-31RD_06
+[OTHER]      229(  1.1%)     1166(  5.7%)   REFL-31RD_diff
+[OTHER]        0(  0.0%)        0(  0.0%)   REFL-zBoss
+[OTHER]      700(  3.4%)     1401(  6.8%)   REFL-zHousing
+[OTHER]        6(  0.0%)       11(  0.1%)   REFL-zLampBracket
+[OTHER]       21(  0.1%)       94(  0.5%)   REFL-zSocket
+[OTHER]      193(  0.9%)      639(  3.1%)   REFL-zUpperPlate
+[OTHER]     3443( 16.8%)    19787( 96.5%) Total
+[OTHER] Absorbed(%)      Incident(%)      Material Name
+[OTHER]        4(  0.0%)        4(  0.0%)   ZERO0000
+[OTHER]        0(  0.0%)        2(  0.0%)   PHOSGLAS
+[OTHER]        0(  0.0%)      277(  1.4%)   QUARTZ01
+[OTHER]     2287( 11.2%)    16188( 79.0%)   CAMSPEC1
+[OTHER]      229(  1.1%)     1166(  5.7%)   CPAMSS40
+[OTHER]      199(  1.0%)      652(  3.2%)   AL1300MF
+[OTHER]      700(  3.4%)     1401(  6.8%)   PERFECT5
+[OTHER]       21(  0.1%)       94(  0.5%)   PAINT002
+[OTHER]     3443( 16.8%)    19787( 96.5%) Total
+[OTHER]
+[OTHER] UNACCOUNTED LUMENS:
+[OTHER]         reached interreflection limit:    75.70 (  0.4%)
+[OTHER]       fell below continuation minimum:     0.00 (  0.0%)
+[OTHER] could not find in/out refractor facet:     0.00 (  0.0%)
+[OTHER]  reached try limit for scatter bounce:     0.00 (  0.0%)
+[OTHER]  lost elsewhere(i.e. outside distrib):    41.52 (  0.2%)
+TILT=NONE
+1 20500 1 37 1 1 1 1.68134 1.44218 1.651
+1 1 275
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5 40 42.5 45 47.5 50 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75 77.5 80
+82.5 85 87.5 90
+0
+14733.4 15339.5 13075.1 11697.6 11371.2 11493.6 10939.9 10271.4 9536.08 8757.21 8137.93 7615.36 7336.92 7179.98 6972.46 6737.32
+6461.96 5989.02 5248.3 4383.54 2765.99 1108.24 117.99 54.97 50.89 52.19 52.21 55.53 55.03 57.05 53.66 50.18 40.03 34.74 25.72
+12.3 6.64
+

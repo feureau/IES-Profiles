@@ -1,0 +1,19 @@
+IESNA:LM-63-1995
+[TEST]Test Report: LVE02192   LAB: "EHV"
+[DATE]Fri Nov 27 14:00:00 1998
+[MANUFAC]COOPER LIGHTING - INVUE
+[LAMPCAT]233650
+[LUMCAT]PHH-39-MP-SP10
+[LUMINAIRE]ARCHITECTURAL FLOOD LIGHT
+[LAMP]39 W MP PAR20 10 DEGREE SPOT
+[_LAMPLUMENS]2000
+[MORE]DATE REFLECTS LAMP MANUFACTURER'S PUBLISHED BARE LAMP PHOTOMETRY AS OF 11/03
+TILT=NONE
+1  -1  1  19  1  1  1  0.0  0.0  0.0
+1.00 1.00 45
+ 0.0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0   
+50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0                                                                   
+0                                                                          
+23000.0 11812.0  4216.7  1533.7  762.0   428.1   380.9   383.1   358.9   222.9   96.7
+70.2    69.2    50.5    42.7    30.7   16.5   6.5   0.0
+       

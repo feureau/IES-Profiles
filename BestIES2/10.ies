@@ -1,0 +1,67 @@
+IESNA:LM-63-1995
+[TEST] Photopia 1.5.0.20 PHOTOMETRIC REPORT
+[LUMINAIRE] PROJECT: C7RB
+[OTHER] OPTIONS:
+[OTHER]   Spawning 1 rays for each reaction.
+[OTHER]   Writing 250 rays to a DXF file.
+[OTHER]   Random number generator seed: 8.
+[OTHER]   Tracing 15 reflections.
+[OTHER]   Stop tracing ray at 2.0% of initial magnitude.
+[OTHER]   Tracing 999964 initial lamp rays.
+[OTHER]   Photometric test distance of 7.00 meters.
+[OTHER]
+[OTHER] LUMENS EXITING SYSTEM:
+[OTHER]   Lumens(%)       Reflection
+[OTHER]     1881( 32.4%)      0
+[OTHER]      941( 16.2%)      1
+[OTHER]      336(  5.8%)      2
+[OTHER]      308(  5.3%)      3
+[OTHER]      193(  3.3%)      4
+[OTHER]      167(  2.9%)      5
+[OTHER]      124(  2.1%)      6
+[OTHER]      103(  1.8%)      7
+[OTHER]       82(  1.4%)      8
+[OTHER]       67(  1.2%)      9
+[OTHER]       54(  0.9%)     10
+[OTHER]       43(  0.7%)     11
+[OTHER]       35(  0.6%)     12
+[OTHER]       28(  0.5%)     13
+[OTHER]       23(  0.4%)     14
+[OTHER]       19(  0.3%)     15
+[OTHER]     4411( 76.1%)  Total
+[OTHER]
+[OTHER] LUMENS ABSORBED BY SYSTEM:
+[OTHER]   Lumens(%)       Layer Name
+[OTHER]      736( 12.7%)   REFL-0001
+[OTHER]       14(  0.2%)   REFL-0002
+[OTHER]       44(  0.8%)   REFL-SLOT
+[OTHER]      435(  7.5%)   LAMP-FO32311
+[OTHER]       26(  0.5%)   LAMP-FO32312
+[OTHER]        0(  0.0%)   LAMP-FO3231A
+[OTHER]     1257( 21.7%)  Total
+[OTHER]   Lumens(%)       Material
+[OTHER]      462(  8.0%)   PHOSGLAS
+[OTHER]      795( 13.7%)   PAINT92
+[OTHER]     1258( 21.7%)  Total
+[OTHER]
+[OTHER] UNACCOUNTED LUMENS:
+[OTHER]         reached interreflection limit:   132.68 (  2.3%)
+[OTHER]       fell below continuation minimum:     0.00 (  0.0%)
+[OTHER] could not find in/out refractor facet:     0.00 (  0.0%)
+[OTHER]  reached try limit for scatter bounce:     0.00 (  0.0%)
+[OTHER]  lost elsewhere(i.e. outside distrib):     0.00 (  0.0%)
+TILT=NONE
+2 2900 1 21 9 1 2 1.252 0.146869 0.122787
+1 1 78
+0 5 15 25 35 45 55 65 75 85 90 95 105 115 125 135 145 155 165 175 180
+0 22.5 45 67.5 90 112.5 135 157.5 180
+90 78 66 55 43 36 26 20 13 2 11 143 430 730 1014 1177 1195 1370 1429 1451 1421
+90 73 63 57 49 38 28 21 13 3 11 140 431 729 997 1126 1224 1342 1434 1482 1421
+90 67 69 59 50 39 29 19 13 4 10 142 436 719 920 1047 1221 1348 1434 1489 1421
+90 67 70 63 56 42 34 22 11 4 8 153 400 617 825 1029 1196 1342 1434 1498 1421
+90 74 76 70 61 49 44 34 20 6 5 90 289 542 784 996 1174 1308 1414 1441 1421
+90 86 80 90 96 83 55 34 27 13 1 58 214 423 662 898 1112 1258 1389 1427 1421
+90 79 104 118 95 48 47 54 36 11 1 37 164 356 579 798 1014 1209 1357 1416 1421
+90 85 124 114 59 46 70 62 34 12 1 27 144 320 522 763 931 1165 1335 1409 1421
+90 94 124 111 47 56 78 61 34 11 0 27 139 306 515 750 914 1164 1359 1399 1421
+

@@ -1,0 +1,15 @@
+IESNA:LM-63-1995
+[TEST]Test Report: LVE01935   LAB: "EHV"
+[DATE]Fri Nov 27 14:00:00 1998
+[MANUFAC]COOPER LIGHTING - LUMIERE
+[LUMCAT]715-2-MH70PAR30-FL
+[LAMPCAT]bare lamp data for 715-2
+[LAMP]CDM-R 70W FL PAR30L /830 
+TILT=NONE
+1  4850  1  19  1  1  1  0.0  0.0  0.0
+1.00  1.00  86
+ 0.0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0                                                                   
+0                                                                          
+9945 9818 9410 7487 4242 2031 1062 706 480
+ 331 232 151 105 62 37 22 11 7 4

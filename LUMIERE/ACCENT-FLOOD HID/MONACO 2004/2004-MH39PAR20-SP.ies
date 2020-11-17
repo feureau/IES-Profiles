@@ -1,0 +1,15 @@
+IESNA:LM-63-1995
+[TEST]Test Report: LVE02192   LAB: "EHV"
+[DATE]Fri Nov 27 14:00:00 1998
+[MANUFAC]COOPER LIGHTING - LUMIERE 
+[LUMCAT]2004-MH39PAR20-SP
+[LAMPCAT]BARE LAMP DATA FOR 2004
+[LAMP]CDM-R PAR20 SP/830/35W
+TILT=NONE
+1  2000  1  19  1  1  1  0.0  0.0  0.0
+1.00 1.00 45
+ 0.0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0   
+50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0                                                                   
+0                                                                          
+21089 10830 3866 1406 699 393 349 351 329 204 89
+ 64 63 46 39 28 15 6 0

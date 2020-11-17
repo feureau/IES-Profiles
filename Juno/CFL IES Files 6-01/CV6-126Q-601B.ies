@@ -1,0 +1,15 @@
+IESNA:LM-63-1995
+[DATE]04-16-1999
+[TEST]PT04990210
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]CV6-126Q-601B-WH      
+[LUMINAIRE]6" RECESSED COMPACT FLUORESCENT DOWNLIGHT W/BLK BAFFLE
+[LAMP]CF26DD/E/830             
+TILT=NONE
+1   1825   1  19  1 1  1  -.469   .000   .000
+1 1 27.2 
+ 0  5  10  15  20  25  30  35  40  45  50  55 
+ 60  65  70  75  80  85  90 
+0
+   602     605     530     424     350     291     244     171     114      60  
+     7       0       0       0       0       0       0       0       0  

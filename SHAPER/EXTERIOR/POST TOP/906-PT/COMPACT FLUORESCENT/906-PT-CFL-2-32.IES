@@ -1,0 +1,30 @@
+IESNA:LM-63-1995
+[TEST]     18390
+[MANUFAC]COOPER LIGHTING - SHAPER                                          
+[LUMCAT]906-PT-CF2/32                                                                   
+[LUMINAIRE]WITH WHITE TOP REFLECTOR AND FLAT FROSTED PLASTIC LENS                          
+[LAMP]TWO SYLVANIA 32 WATT CPFL LAMPS                                                 
+[LAMPCAT]CF32DT/E/841. LUMEN RATING = 4800 LMS.                                          
+[OTHER]ONE UNIVERSAL C242UNVSE BALLAST OPERATING AT 120 VAC AND 60 WATTS               
+TILT=NONE
+1
+      4800
+1
+37
+1
+1
+1
+ -1.88
+  0.00
+  0.00
+1
+1
+   60.0000
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5
+40 42.5 45 47.5 50 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75
+77.5 80 82.5 85 87.5 90
+0
+     166.2      175.6      199.9      231.6      259.4      275.4      285.1      290.6      293.6      293.6
+     291.2      286.3      278.9      268.7      257.3      244.6      231.6      217.9      204.6      191.1
+     177.3      163.6      149.2      135.4      121.3      107.8       93.6       79.9       65.9       51.5
+      38.6       26.2       16.2        8.2        3.2        0.9        0.5

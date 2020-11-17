@@ -1,0 +1,31 @@
+IESNA:LM-63-1995
+[TEST]     19052
+[MANUFAC]COOPER LIGHTING - LUMIERE  
+[LUMCAT]6002A-MH70PAR30L-SP                                         
+[LUMINAIRE]WITH PAR LAMP AND TWO CLEAR GLASS LENS                                          
+[LAMP]ONE SYL. 70 WATT MH LAMP                                                        
+[LAMPCAT]PMCP70PAR30LN/U/830/SP. LUMEN RATING = 4400 LMS.                                
+[OTHER]OPERATING AT 70 WATTS - WITH PAR SPOT LAMP SET AT 0 DEGREES TILT                
+TILT=NONE
+1
+      4400
+1
+37
+1
+1
+1
+  0.00
+  0.00
+  0.00
+1
+1
+    0.0000
+90 92.5 95 97.5 100 102.5 105 107.5 110 112.5 115 117.5 120
+122.5 125 127.5 130 132.5 135 137.5 140 142.5 145 147.5 150
+152.5 155 157.5 160 162.5 165 167.5 170 172.5 175 177.5 180
+0
+       0.5        0.5        0.5        0.5        0.5        0.5        0.5        0.5        0.5        0.5
+       0.5        0.5        0.5        0.5        0.5        0.5        0.5        1.6       10.3       16.9
+      29.4       56.1       92.1      163.0      338.1      735.1     1186.0     1484.9     1972.9     2772.9
+    3868.5     5718.2     8601.9    13216.5    19519.3    26686.0    29969.4
+

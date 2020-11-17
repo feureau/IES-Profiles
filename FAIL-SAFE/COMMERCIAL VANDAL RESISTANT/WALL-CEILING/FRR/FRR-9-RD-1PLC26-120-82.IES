@@ -1,0 +1,16 @@
+IESNA:LM-63-1995
+[TEST]6764.0  
+[MANUFAC]COOPER LIGHTING - FAIL-SAFE
+[LUMCAT]FRR-9-RD-1PLC26-120-82  
+[LUMINAIRE]FAIL-SAFE "QUAD" 9" RND RECESSED LUMINAIRE                 
+[MORE]PRISMATIC LENS  WATTS=26 
+[LAMPCAT]DULUX D 26W/41                                     
+[LAMP]26W PLC 
+TILT=NONE
+   1   1800.  1.000000   19    1    1    1  .000  .750  .000
+    1.0000    1.0000   26.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0
+   467.   469.   460.   447.   420.   379.   331.   278.   224.   162.
+   105.    70.    47.    35.    19.    12.     7.     3.     0.

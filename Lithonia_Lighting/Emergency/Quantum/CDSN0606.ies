@@ -1,0 +1,38 @@
+IESNA91
+[TEST] 12296
+[MANUFAC] LITHONIA LIGHTING
+[LUMCAT] CDS N0606
+[LUMINAIRE] QUANTUM COMPACT DESIGNER LAMP HEAD
+[LAMPCAT] #939
+[LAMP] INCANDESCENT, 6 WATT, 6 VOLT
+[OTHER] LITHONIA- ESG LIGHTING  DECATUR, GA Version: 01/01/1998 - 12:00:00
+[_PRODUCTGROUP] EMERGENCY
+[_INFOLINK] www.lithonia.com/visual/ies/ies.asp?vfile=
+TILT=NONE
+1  68  1  37  5  1  1  0.33  0.33  0
+1  1  6
+0  2.5  5  7.5  10  12.5  15  17.5  20  22.5
+25  27.5  30  32.5  35  37.5  40  42.5  45  47.5
+50  52.5  55  57.5  60  62.5  65  67.5  70  72.5
+75  77.5  80  82.5  85  87.5  90 
+0  22.5  45  67.5  90 
+166  160  125  88  53  40  27  19  14  11
+9  7  7  6  6  5  5  5  5  4
+4  4  3  3  3  3  3  2  2  1
+1  1  1  1  0  0  0 
+166  158  124  89  59  40  26  18  13  10
+8  7  6  6  5  5  5  5  4  4
+4  4  4  3  3  2  2  2  1  1
+1  1  1  0  0  0  0 
+166  153  120  85  56  37  24  17  12  9
+8  7  6  5  5  5  5  4  4  4
+4  4  3  3  3  2  2  2  1  1
+1  1  1  0  0  0  0 
+166  148  114  80  52  34  22  15  11  9
+7  6  6  6  5  5  5  4  4  4
+4  4  3  3  3  2  2  2  1  1
+1  1  1  0  0  0  0 
+166  142  108  75  49  32  21  15  11  9
+7  6  6  6  5  5  5  5  4  4
+4  4  3  3  3  2  2  2  1  1
+1  1  1  0  0  0  0 

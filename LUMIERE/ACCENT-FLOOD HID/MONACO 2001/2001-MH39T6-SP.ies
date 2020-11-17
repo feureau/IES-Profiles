@@ -1,0 +1,26 @@
+IESNA:LM-63-1995
+[TEST] LTL TEST NUMBER 06500                           
+[DATE] 02-18-2002                 
+[MANUFAC]COOPER LIGHTING - LUMIERE                                          
+[LUMCAT]2001-MH39T6-SP                                                       
+[LUMINAIRE] CAST ALUMINUM HOUSING, SPUN SPECULAR ALUMINUM REFLECTOR,            
+[MORE]      CLEAR GLASS ENCLOSURE.                                    
+[LAMP] ONE CLEAR PHILIPS CDM35/T6/830 39 WATT T6 SINGLE ENDED METAL        
+[MORE] HALIDE RATED AT 3,400 LUMENS.                                  
+[OTHER] MOUNTING: SURFACE                                                               
+TILT=NONE   
+       1   3400.     1.0      55       1       1       1 -0.1771  0.0000  0.0000
+     1.0     1.0    39.0
+     0.0     1.0     2.0     3.0     4.0     5.0     6.0     7.0     8.0     9.0
+    10.0    11.0    12.0    13.0    14.0    15.0    16.0    17.0    18.0    19.0
+    20.0    21.0    22.0    23.0    24.0    25.0    26.0    27.0    28.0    29.0
+    30.0    31.0    32.0    33.0    34.0    35.0    36.0    37.0    38.0    39.0
+    40.0    41.0    42.0    43.0    44.0    45.0    50.0    55.0    60.0    65.0
+    70.0    75.0    80.0    85.0    90.0
+     0.0
+   7018.   6883.   6444.   5810.   5118.   4417.   3814.   3297.   2822.   2415.
+   2086.   1805.   1562.   1348.   1165.    982.    834.    713.    610.    539.
+    482.    433.    390.    345.    291.    230.    170.    122.     84.     56.
+     41.     22.      7.      7.     10.     13.     16.     21.     25.     20.
+     17.     14.     13.      7.      4.      3.      0.      0.      0.      0.
+      0.      0.      0.      0.      0.

@@ -1,0 +1,15 @@
+IESNA:LM-63-1995
+[DATE]04-15-1999
+[TEST]PT04990110
+[MANUFAC]JUNO LIGHTING, INC.
+[LUMCAT]CV8-118T-801B-WH       
+[LUMINAIRE]8" RECESSED COMPACT FLUORESCENT DOWNLIGHT W/BLK BAFFLE     
+[LAMP]F18TBX/SPX35/A/4P        
+TILT=NONE
+1   1200   1  19  1 1  1  -.563   .000   .000
+1 1 21.0 
+ 0  5  10  15  20  25  30  35  40  45  50  55 
+ 60  65  70  75  80  85  90 
+0
+   539     574     550     510     469     415     351     267     194      79  
+     8       3       0       0       0       0       0       0       0  

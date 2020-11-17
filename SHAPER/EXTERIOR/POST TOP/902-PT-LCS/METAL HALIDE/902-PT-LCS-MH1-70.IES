@@ -1,0 +1,30 @@
+IESNA:LM-63-1995
+[TEST]     18804
+[MANUFAC]COOPER LIGHTING - SHAPER                                        
+[LUMCAT]902-PT-LCS-MH1/70                                                               
+[LUMINAIRE]POST TOP HID LUMINAIRE WITH WHITE INTERIOR AND CLEAR GLASS CYLINDER LENS                               
+[LAMP]ONE VENTURE 70 WATT MH LAMP                                                     
+[LAMPCAT]MH70W/U. LUMEN RATING = 5600 LMS.                                               
+[OTHER]OPERATING AT 70 WATTS                                                           
+TILT=NONE
+1
+      5600
+1
+37
+1
+1
+1
+ -2.00
+  0.00
+  0.00
+1
+1
+    0.0000
+0 2.5 5 7.5 10 12.5 15 17.5 20 22.5 25 27.5 30 32.5 35 37.5
+40 42.5 45 47.5 50 52.5 55 57.5 60 62.5 65 67.5 70 72.5 75
+77.5 80 82.5 85 87.5 90
+0
+     587.6      587.5      587.2      584.8      580.1      579.6      578.3      566.8      548.3      531.5
+     523.6      582.9      677.3      735.1      772.8      780.6      653.2      559.7      525.9      474.5
+     428.5      407.0      384.8      368.2      354.1      338.3      316.1      326.6      444.5      529.9
+     523.9      382.4      170.5       37.1       13.1        5.7        0.5
